@@ -73,10 +73,13 @@ Lembre-se que, ao inserir o nome dos paises no método de busca, os nomes dever�
 
 <code>
 Para África do Sul a entrada será:
+
 - africa-do-sul
 
 Para Rússia a entrada será:
+
 - russia
+
 </code>
 
 Com relação as datas, caso necessário sobre datas limite e valor mínimo, consulte o site da <code>inflation</code>

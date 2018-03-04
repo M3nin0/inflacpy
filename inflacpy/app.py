@@ -4,7 +4,7 @@ from scrap.scrap import Scrap
 
 if __name__ == '__main__':
     scrap = Scrap()
-    _list = scrap.get_data(country='brasil', year_start=2016)
+    _list = scrap.get_data(country='brasil')
 
     # Exportando em json
     _json = pd.DataFrame(_list).dropna()

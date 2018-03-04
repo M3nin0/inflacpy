@@ -7,4 +7,4 @@ if __name__ == '__main__':
     _list = scrap.get_data(country='brasil')
 
     # Exportando em json
-    pd.DataFrame(_list).to_json('../brasil-inflacoes_geral.json')
+    pd.DataFrame(_list).to_json('../data/brasil.json')

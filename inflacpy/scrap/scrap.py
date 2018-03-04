@@ -44,15 +44,14 @@ class Scrap():
             soup = BeautifulSoup(r.text, 'html.parser')
 
             inflacoes.append(dict())
-            inflacoes[-1][ano] = {}
-            inflacoes[-1][ano]['mensal'] = []
-            inflacoes[-1][ano]['anual'] = []
+            inflacoes[0][ano] = {}
+            inflacoes[0][ano]['mensal'] = []
+            inflacoes[0][ano]['anual'] = []
             for mes in range(0, 6):
 
                 # Filtra a classe das tabelas - Mensais e anuais
                 tabledata1 = soup.findAll('tr', {'class': 'tabledata1'})
                 tabledata2 = soup.findAll('tr', {'class': 'tabledata2'})
-
 
                 table_1 = tabledata1[mes].find_all('td')
                 table_2 = tabledata2[mes].find_all('td')
@@ -60,7 +59,7 @@ class Scrap():
                 # Salvando os dados de maneira organizada
                 for element_1 in table_1[1]:
                     for element_2 in table_2[1]:
-                        inflacoes[-1][ano]['mensal'].append(
+                        inflacoes[0][ano]['mensal'].append(
                                 str(element_1)\
                                     .replace('\xa0%\xa0', '')\
                                     .replace('<td align="right">', '')\
@@ -70,7 +69,7 @@ class Scrap():
                                     .replace('%', '')
                                 )
 
-                        inflacoes[-1][ano]['mensal'].append(
+                        inflacoes[0][ano]['mensal'].append(
                                 str(element_2)\
                                     .replace('\xa0%', '')\
                                     .replace('<td align=\"right\">', '')\
@@ -82,7 +81,7 @@ class Scrap():
 
                 for element_1 in table_1[4]:
                     for element_2 in table_2[4]:
-                        inflacoes[-1][ano]['anual'].append(
+                        inflacoes[0][ano]['anual'].append(
                                 str(element_1)\
                                     .replace('\xa0%\xa0', '')\
                                     .replace('<td align="right">', '')\
@@ -92,7 +91,7 @@ class Scrap():
                                     .replace('%', '')
                                 )
 
-                        inflacoes[-1][ano]['anual'].append(
+                        inflacoes[0][ano]['anual'].append(
                                 str(element_2)\
                                     .replace('\xa0%', '')\
                                     .replace('<td align=\"right\">', '')\

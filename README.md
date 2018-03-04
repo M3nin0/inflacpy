@@ -26,7 +26,7 @@ Caso você queira salvar em algum formato, recomenda-se a utilização do <code>
 
 ## Países disponíveis para consulta
 
-Abaixo uma lista dos países disponíveis e o último ano disponível para análise
+Abaixo uma lista dos países disponíveis e o último ano disponível para análise.
 
 |         País             | Até  |
 |--------------------------|------|
@@ -68,3 +68,15 @@ Abaixo uma lista dos países disponíveis e o último ano disponível para anál
 | Inflação Suécia          | 2018 |
 | Inflação Suíça           | 2018 |
 | Inflação Turquia         | 2018 |
+
+Lembre-se que, ao inserir o nome dos paises no método de busca, os nomes deverão ser escritos sem utilizar caracteres especiais e sem espaços. Veja um exemplo abaixo:
+
+<code>
+Para África do Sul a entrada será:
+- africa-do-sul
+
+Para Rússia a entrada será:
+- russia
+</code>
+
+Com relação as datas, caso necessário sobre datas limite e valor mínimo, consulte o site da <code>inflation</code>

@@ -8,6 +8,12 @@ Todos os dados são retirados do site: [Inflation](http://pt.inflation.eu/). Est
 
 A utilização é bastante simples, há um exemplo dentro de <code>app.py</code>, porém caso você queira utilizar em seu projeto, basta importar a classe <code>Scrap</code> e utilizar o método <code>get_data</code>, com ele será possível definir o país e o tempo que deverá ser considerado na busca.
 
+A instalação das dependências deverá ser feita:
+
+```shell
+pip install requirements.txt
+```
+
 O método retorna um dicionário com as informações
 
 ```python

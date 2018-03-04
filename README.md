@@ -71,7 +71,6 @@ Abaixo uma lista dos países disponíveis e o último ano disponível para anál
 
 Lembre-se que, ao inserir o nome dos paises no método de busca, os nomes deverão ser escritos sem utilizar caracteres especiais e sem espaços. Veja um exemplo abaixo:
 
-<code>
 Para África do Sul a entrada será:
 
 - africa-do-sul
@@ -79,7 +78,5 @@ Para África do Sul a entrada será:
 Para Rússia a entrada será:
 
 - russia
-
-</code>
 
 Com relação as datas, caso necessário sobre datas limite e valor mínimo, consulte o site da <code>inflation</code>

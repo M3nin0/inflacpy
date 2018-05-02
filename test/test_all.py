@@ -1,5 +1,5 @@
 import unittest
-from test.scrap_test import ScrapTest
+from scrap_test import ScrapTest
 
 suite = unittest.TestSuite()
 

@@ -1,5 +1,8 @@
 # Inflacpy
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f2be9f8d8d544d46a17f7ce6910218a0)](https://www.codacy.com/app/M3nin0/inflacpy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=M3nin0/inflacpy&amp;utm_campaign=Badge_Grade)
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
 Este é um pequeno pacote para a fácil aquisição de informações sobre inflação em diversos países. A ideia é que a informação fique disponível de forma mais rápida para análises e consultas.
 
 Todos os dados são retirados do site: [Inflation](http://pt.inflation.eu/). Estou utilizando este site pois ele faz uma excelente junção dos mais diversos serviços. Créditos pelos dados a eles.

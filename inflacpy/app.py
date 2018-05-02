@@ -1,5 +1,5 @@
 import pandas as pd
-import sqlite3
+
 from inflacpy.scrap.scrap import Scrap
 
 if __name__ == '__main__':

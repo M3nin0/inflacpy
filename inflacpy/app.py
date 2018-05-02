@@ -1,6 +1,6 @@
 import pandas as pd
 import sqlite3
-from scrap.scrap import Scrap
+from inflacpy.scrap.scrap import Scrap
 
 if __name__ == '__main__':
     scrap = Scrap()

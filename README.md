@@ -40,44 +40,44 @@ Abaixo uma lista dos países disponíveis e o último ano disponível para anál
 
 |         País             | Até  |
 |--------------------------|------|
-| Inflação África do Sul   | 2018 |
-| Inflação Alemanha        | 2018 |
-| Inflação Austria         | 2018 |
-| Inflação Bélgica         | 2018 |
-| Inflação Brasil          | 2018 |
-| Inflação Canadá          | 2018 |
-| Inflação Chéquia         | 2018 |
-| Inflação Chile           | 2018 |
-| Inflação China           | 2018 |
-| Inflação Coreia do Sul   | 2018 |
-| Inflação Dinamarca       | 2018 |
-| Inflação Eslováquia      | 2018 |
-| Inflação Eslovénia       | 2018 |
-| Inflação Espanha         | 2018 |
-| Inflação Estados Unidos  | 2018 |
-| Inflação Estónia         | 2018 |
-| Inflação Finlândia       | 2018 |
-| Inflação França          | 2018 |
-| Inflação Grã-Bretanha    | 2018 |
-| Inflação Grécia          | 2018 |
-| Inflação Holanda         | 2018 |
-| Inflação Hungria         | 2018 |
-| Inflação India           | 2018 |
-| Inflação Indonésia       | 2018 |
-| Inflação Irlanda         | 2018 |
-| Inflação Islândia        | 2018 |
-| Inflação Israel          | 2018 |
-| Inflação Itália          | 2018 |
-| Inflação Japão           | 2018 |
-| Inflação Luxemburgo      | 2018 |
-| Inflação México          | 2018 |
-| Inflação Noruega         | 2018 |
-| Inflação Polónia         | 2018 |
-| Inflação Portugal        | 2018 |
-| Inflação Rússia          | 2018 |
-| Inflação Suécia          | 2018 |
-| Inflação Suíça           | 2018 |
-| Inflação Turquia         | 2018 |
+| Inflação África do Sul   | 2019 |
+| Inflação Alemanha        | 2019 |
+| Inflação Austria         | 2019 |
+| Inflação Bélgica         | 2019 |
+| Inflação Brasil          | 2019 |
+| Inflação Canadá          | 2019 |
+| Inflação Chéquia         | 2019 |
+| Inflação Chile           | 2019 |
+| Inflação China           | 2019 |
+| Inflação Coreia do Sul   | 2019 |
+| Inflação Dinamarca       | 2019 |
+| Inflação Eslováquia      | 2019 |
+| Inflação Eslovénia       | 2019 |
+| Inflação Espanha         | 2019 |
+| Inflação Estados Unidos  | 2019 |
+| Inflação Estónia         | 2019 |
+| Inflação Finlândia       | 2019 |
+| Inflação França          | 2019 |
+| Inflação Grã-Bretanha    | 2019 |
+| Inflação Grécia          | 2019 |
+| Inflação Holanda         | 2019 |
+| Inflação Hungria         | 2019 |
+| Inflação India           | 2019 |
+| Inflação Indonésia       | 2019 |
+| Inflação Irlanda         | 2019 |
+| Inflação Islândia        | 2019 |
+| Inflação Israel          | 2019 |
+| Inflação Itália          | 2019 |
+| Inflação Japão           | 2019 |
+| Inflação Luxemburgo      | 2019 |
+| Inflação México          | 2019 |
+| Inflação Noruega         | 2019 |
+| Inflação Polónia         | 2019 |
+| Inflação Portugal        | 2019 |
+| Inflação Rússia          | 2019 |
+| Inflação Suécia          | 2019 |
+| Inflação Suíça           | 2019 |
+| Inflação Turquia         | 2019 |
 
 Lembre-se que, ao inserir o nome dos paises no método de busca, os nomes deverão ser escritos sem utilizar caracteres especiais e sem espaços. Veja um exemplo abaixo:
 
